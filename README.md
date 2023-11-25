@@ -1,7 +1,7 @@
 - 👋 Hello, Fidel Diaz a passionate software engineering student on a journey of continuous learning and growth.
 - 🚀 I'm deeply interested in software development, and my current focus is on honing my skills in Algorithms, Mathematics For Computer Science, Software Design Methodology, Requirements Engineering,
-- Data Structures, Database Management Systems, Data Science.
-- 🌱 Currently immersed in my studies, I'm expanding my proficiency in SQL, C, Java, Python, and HTML.
+- Data Structures, Database Management Systems, Data Science...
+- 🌱 Currently immersed in my studies, I'm expanding my proficiency in SQL, C, Java, Python, and HTML...
 - 💻 Actively seeking opportunities to collaborate on exciting projects and contribute to the world of code.
 - Open to exploring areas such as open-source development, desktop, and mobile app development, full-stack developer...
 - 🤝 I believe in the power of collaboration and am eager to connect with fellow developers, share knowledge, and contribute to the community.
